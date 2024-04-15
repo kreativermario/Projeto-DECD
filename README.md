@@ -6,7 +6,7 @@
 
 ## Conteúdo
 
-1. [Preparacao dos Dados](./notebooks/preparacao_dados.ipynb)
+1. [Preparacao dos Dados](./notebooks/data_understanding.ipynb)
 
 ## Recursos Adicionais
 
