@@ -1,4 +1,4 @@
-Concelho,Nível de Tensão,Ano,Mês,CPEs_Doméstico,CPEs_Iluminação Pública,CPEs_Não Doméstico,CPEs_Outros
+concelho,nivel_de_tensao,ano,mes,cpes_domestico,cpes_iluminacao_publica,cpes_nao_domestico,cpes_outros
 Abrantes,Baixa Tensão,2022,3,20283.0,293.0,4334.0,83.0
 Abrantes,Baixa Tensão,2022,4,20267.0,293.0,4337.0,83.0
 Abrantes,Baixa Tensão,2022,5,20254.0,293.0,4324.0,82.0

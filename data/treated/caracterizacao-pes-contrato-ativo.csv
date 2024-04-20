@@ -1,4 +1,4 @@
-Concelho,Tipo de Instalação,Nível de Tensão,Ano,Mês,CPEs (#)
+concelho,tipo_de_instalacao,nivel_de_tensao,ano,mes,cpes_quantidade
 Abrantes,Doméstico,Baixa Tensão Especial,2022,3,1
 Abrantes,Doméstico,Baixa Tensão Especial,2022,4,1
 Abrantes,Doméstico,Baixa Tensão Especial,2022,5,1
