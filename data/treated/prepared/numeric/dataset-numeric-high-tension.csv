@@ -1,4 +1,4 @@
-ano,mês,energia_ativa_alta_tensao_kwh,cpes_domestico_alta_tensao,cpes_nao_domestico_alta_tensao,cpes_outros_alta_tensao
+ano,mes,energia_ativa_alta_tensao_kwh,cpes_domestico_alta_tensao,cpes_nao_domestico_alta_tensao,cpes_outros_alta_tensao
 2022,8,5891542,0,134,0
 2022,9,6159115,0,134,0
 2022,10,6360625,0,134,0

@@ -1,4 +1,4 @@
-ano,mês,energia_ativa_alta_tensao_kwh,cpes_domestico_alta_tensao,cpes_nao_domestico_alta_tensao,cpes_outros_alta_tensao
+ano,mes,energia_ativa_alta_tensao_kwh,cpes_domestico_alta_tensao,cpes_nao_domestico_alta_tensao,cpes_outros_alta_tensao
 2024,1,2353635,0,129,0
 2024,1,78264,0,16,0
 2024,1,81826,0,38,0

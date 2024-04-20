@@ -1,4 +1,4 @@
-ano,mês,energia_ativa_baixa_tensao_kwh,cpes_domestico_baixa_tensao,cpes_iluminacao_publica_baixa_tensao,cpes_nao_domestico_baixa_tensao,cpes_outros_baixa_tensao,cpes_mobilidade_eletrica_nao_baixa_tensao,cpes_mobilidade_eletrica_sim_baixa_tensao
+ano,mes,energia_ativa_baixa_tensao_kwh,cpes_domestico_baixa_tensao,cpes_iluminacao_publica_baixa_tensao,cpes_nao_domestico_baixa_tensao,cpes_outros_baixa_tensao,cpes_mobilidade_eletrica_nao_baixa_tensao,cpes_mobilidade_eletrica_sim_baixa_tensao
 2024,1,2983911.75 - 6866211.91,14844.51 - 22924.60,238.40 - 299.03,3135.72 - 5235.35,38.21 - 83.89,29385.43 - 46318.89,3.87 - 12.51
 2024,1,139066.00 - 2983911.75,3196.96 - 5377.91,56.82 - 100.27,174.00 - 1556.31,1.00 - 38.21,1144.00 - 8292.53,3.87 - 12.51
 2024,1,139066.00 - 2983911.75,3196.96 - 5377.91,7.00 - 56.82,174.00 - 1556.31,1.00 - 38.21,1144.00 - 8292.53,0.00 - 3.87
