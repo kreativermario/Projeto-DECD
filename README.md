@@ -6,7 +6,23 @@
 
 ## Conteúdo
 
-1. [Preparacao dos Dados](./notebooks/data_understanding.ipynb)
+1. Data understanding
+   1. [Tratamento da coleção - Consumos faturados](./notebooks/tratamento_3_consumos_faturados_por_municipio_10_anos.ipynb)
+   2. [Tratamento da coleção - Caracterizacao CPEs](./notebooks/tratamento_20_caracterizacao_pes_contrato_ativo.ipynb)
+   3. [Tratamento da coleção - Diagrama de carga](./notebooks/tratamento_22_diagrama_de_carga_por_instalacao.ipynb)
+   4. [Tratamento da coleção - Pordata Densidade Populacional](./notebooks/tratamento_pordata_populacional.ipynb)
+   5. [Junção dos datasets](./notebooks/tratamento_juncao.ipynb)
+   6. [Visualização e análise do dataset merged](./notebooks/data_understanding.ipynb)
+2. Preparação de dados
+   1. [Preparação dataset totalmente categórico](./notebooks/data_preparation_categoric.ipynb)
+      - Foi decidido que não era ideal para o nosso target de análise
+   2. [Preparação dataset totalmente numérico](./notebooks/data_preparation_numeric.ipynb)
+      - Foi decidido utilizar um dataset totalmente númerico
+      - Na segunda parte, adicionou-se dados de densidade populacional devido às distribuições assimétrica porque existem muitos concelhos com pouca densidade populacional.
+3. Aprendizagem não supervisionada
+   - Foram criados dois subsets na prepação de dados de modo a podermos analisar os dois tipos de tensões de energia. 
+   1. [Clustering Baixa Tensão](./notebooks/clustering_low_tensions.ipynb)
+   2. [Clustering Alta Tensão](./notebooks/clustering_high_tension.ipynb)
 
 ## Recursos Adicionais
 
